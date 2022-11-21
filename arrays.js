@@ -3,13 +3,13 @@
 
 const faveColors = ['red', 'green', 'black']
 
-let colorCopyarr = ['red', 'green', 'black']
+let colorCopyArr = ['red', 'green', 'black']
 let colorCopy = colorCopyarr.slice(0,2)
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
-//CODE HERE
+colorCopyArr.push('blue')
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -19,8 +19,8 @@ let colorCopy = colorCopyarr.slice(0,2)
 
 const numbers = [1, 2, 3, 4, 5]
 
-//CODE HERE
-
+let middleNums = numbers.pop()
+let middlesNums = numbers.shift()
 
 //////////////////PROBLEM 4////////////////////
 /* 
