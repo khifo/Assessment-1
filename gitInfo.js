@@ -52,7 +52,7 @@ let gitStatus = 'displays the state of the working directory and staging area'
     It should be a string containing the code to add all files.
 */
 
-let gitAddDefinition = 'add new or changed files to the working directory'
+let gitAddDefinition = 'add files to be tracked'
 let gitAddCode = 'git add --all'
 
 //////////////////PROBLEM 7////////////////////
@@ -64,7 +64,8 @@ let gitAddCode = 'git add --all'
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = 'captures a snapshot of the changes made to the files being tracked'
+let gitCommitCode = 'git commit -m "initial commit"'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,4 +74,4 @@ let gitAddCode = 'git add --all'
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = 'upload local repository to the remote repository'
