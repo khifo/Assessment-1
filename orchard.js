@@ -121,8 +121,8 @@ while (acresLeft > 0) {
     acresLeft++;
     days += 1;
     averageDailyAcres -= acresLeft;
-}
-
+} console.log('days');
+// I did the while loop and put in each operation for the days and average daily.
 
 
 // PROBLEM 4
