@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = 'Version control software, tracking any changes in a repository or files'
 
 //////////////////PROBLEM 2////////////////////
 /*
