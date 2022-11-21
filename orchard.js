@@ -63,7 +63,7 @@ for (i=0; i < pinkAcres.length; i++) {
 }
 let totalAcres = 63
     console.log ('totalAcres');
-
+// I found the total of each acre and added it. I couldn't figure out how to add each array insteading of merging them. 
 
 
 // PROBLEM 2
@@ -78,9 +78,10 @@ let totalAcres = 63
     Log `averageDailyAcres` to the console.
 */
 
-// CODE HERE
+let averageDailyAcres = totalAcres/7 
+    console.log('averageDailyAcres');
 
-
+// I did the average in the string with the division sign.
 
 
 
