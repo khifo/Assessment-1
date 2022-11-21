@@ -41,7 +41,7 @@ let gitCloneDefinition = 'create a copy of an existing repository in a new locat
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatus = 'displays the state of the working directory and staging area'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,7 +52,8 @@ let gitCloneDefinition = 'create a copy of an existing repository in a new locat
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = 'add new or changed files to the working directory'
+let gitAddCode = 'git add --all'
 
 //////////////////PROBLEM 7////////////////////
 /*
