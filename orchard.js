@@ -61,6 +61,8 @@ let c = 0;
 for (i=0; i < pinkAcres.length; i++) {
     c += pinkAcres[i]
 }
+let totalAcres = 63
+    console.log ('totalAcres');
 
 
 
