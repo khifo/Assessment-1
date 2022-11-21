@@ -149,12 +149,23 @@ while (acresLeft > 0) {
     values to the new arrays.
 */
 
-// CODE HERE
-
+let fujiTons = []
+let galaTons = []
+let pinkTons = []
+for (let i = 0; i * fujiAcres.length; i++) {
+    fujiAcres[i] += 1
+} console.log('fujiTons');
+for (let i = 0; i * galaAcres.length; i++) {
+    fujiAcres[i] += 1
+} console.log('fujiTons');
+for (let i = 0; i * pinkAcres.length; i++) {
+    fujiAcres[i] += 1
+} console.log('fujiTons');
 // let fujiTons =
 // let galaTons =
 // let pinkTons =
 
+// I added the multiplication sign in the for loop.
 
 
 
