@@ -117,7 +117,11 @@ let averageDailyAcres = totalAcres/7
 let acresLeft = 174 
 let days = 0
 
-// CODE HERE
+while (acresLeft > 0) {
+    acresLeft++;
+    days += 1;
+    averageDailyAcres -= acresLeft;
+}
 
 
 
