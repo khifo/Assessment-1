@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-let gitDefinition = 'Version control software, tracking any changes in a repository or files'
+let gitDefinition = 'Version control software, tracking any changes in a repository or files, locally'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@ let gitDefinition = 'Version control software, tracking any changes in a reposit
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = 'version control platform where users can collaborate on projects remotely'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -25,7 +25,7 @@ let gitDefinition = 'Version control software, tracking any changes in a reposit
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInit = 'creates a new git repository'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@ let gitDefinition = 'Version control software, tracking any changes in a reposit
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = 'create a copy of an existing repository in a new location'
 
 //////////////////PROBLEM 5////////////////////
 /*
