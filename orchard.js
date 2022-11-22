@@ -157,10 +157,10 @@ for (let i = 0; i * fujiAcres.length; i++) {
 } console.log('fujiTons');
 for (let i = 0; i * galaAcres.length; i++) {
     fujiAcres[i] += 1
-} console.log('fujiTons');
+} console.log('galaTons');
 for (let i = 0; i * pinkAcres.length; i++) {
     fujiAcres[i] += 1
-} console.log('fujiTons');
+} console.log('pinkTons');
 // let fujiTons =
 // let galaTons =
 // let pinkTons =
@@ -187,9 +187,9 @@ for (let i = 0; i * pinkAcres.length; i++) {
     Hint: there are 2000 pounds in a ton.
 */
 
- let fujiPounds = (sumoffujiTons)/2000 
-let galaPounds = (sumofgalaTons)/2000
-let pinkPounds = (sumofpinkTons)/2000
+ let fujiPounds = (sumoffujiTons)/2000;
+let galaPounds = (sumofgalaTons)/2000;
+let pinkPounds = (sumofpinkTons)/2000;
 // let fujiPounds =
 // let galaPounds =
 // let pinkPounds =
@@ -215,13 +215,17 @@ let pinkPounds = (sumofpinkTons)/2000
     console. 
 */
 
-// CODE HERE
-
+let fujiProfit = fujiPounds * fujiPrice
+    console.log('Fuji price');
+let galaProfit = galaPounds * galaPrice 
+    console.log('Gala price');
+let pinkProfit = pinkPounds * pinkPrice 
+    console.log('Pink price');
 // let fujiProfit =
 // let galaProfit =
 // let pinkProfit =
 
-
+// I multiplied the pounds and price in the string for each variable.
 
 
 
