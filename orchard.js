@@ -187,13 +187,14 @@ for (let i = 0; i * pinkAcres.length; i++) {
     Hint: there are 2000 pounds in a ton.
 */
 
-// CODE HERE 
-
+ let fujiPounds = (sumoffujiTons)/2000 
+let galaPounds = (sumofgalaTons)/2000
+let pinkPounds = (sumofpinkTons)/2000
 // let fujiPounds =
 // let galaPounds =
 // let pinkPounds =
 
-
+// I put the division sign in the string for each variable.
 
 
 
