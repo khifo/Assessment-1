@@ -240,4 +240,6 @@ let pinkProfit = pinkPounds * pinkPrice
     Log `totalProfit` to the console.
 */
 
-// CODE HERE
+let totalProfit = sum(fujiProfit, galaProfit, pinkProfit){
+    console.log('totalProfit')
+} // I added all the profit with sum. 
